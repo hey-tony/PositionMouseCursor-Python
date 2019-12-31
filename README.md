@@ -4,7 +4,11 @@ Will attempt to center and position the mouse on the desired monitor in a multi-
 ## Installation:
 ```bash
 pip3 install pyautogui
+
+# Mac users might need to:
+# brew install pygobject3 gtk+3
 ```
+
 
 ## Usage:
 ```bash
